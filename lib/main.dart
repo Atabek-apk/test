@@ -26,7 +26,7 @@ class MyApp extends StatelessWidget {
         // closer together (more dense) than on mobile platforms.
         visualDensity: VisualDensity.adaptivePlatformDensity,
       ),
-      home: MyHomePage(title: 'Flutter sahypasy sasasassassas'),
+      home: MyHomePage(title: 'Flutter hakakynda'),
     );
   }
 }
